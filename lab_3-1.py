@@ -1,4 +1,4 @@
-#author CJP 11/9/2021
+#author CJP 11/12/2021
 my_row = ["Jake", "Jack"]
 my_row[2:] = ["Cam"]
 print(my_row)
